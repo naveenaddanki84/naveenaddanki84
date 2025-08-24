@@ -1,5 +1,4 @@
 # Hi there, I'm Naveen Addanki 👋
-
 ## About Me
 I am an **AI/ML Engineer** specializing in Machine Learning, Generative AI, LLM Fine-tuning & RAG Systems. With hands-on experience building end-to-end AI solutions, my work bridges practical deployments and groundbreaking research. My goal is to translate complex AI advancements into high-impact products.
 
@@ -15,7 +14,6 @@ GPA: 3.9/4.0 | Aug 2023 - May 2025
 - Advocate for best practices in MLOps, model/data drift monitoring, and explainable AI.
 
 ## 💻 Experience
-
 ### Graduate AI Research Engineer  
 *Indiana University O'Neill School of Public and Environmental Affairs — Jun 2025–Present*
 - Built a real-time agentic RAG system leveraging vector databases and FastAPI.
@@ -46,16 +44,17 @@ GPA: 3.9/4.0 | Aug 2023 - May 2025
 - [**Hybrid Anime Recommendation System**](https://github.com/naveenaddanki84/Hybrid_Anime_Recommendation_system): End-to-end recommender with Flask, GCP, and advanced MLOps
 - [**Trading Platform with AI Agents**](https://github.com/naveenaddanki84/MCP-Trading-Platform-with-Multi-Server-Integration): Agentic GPT-4/Claude/Gemini trading simulation with multi-server integration
 
-## 🛠️ Skills
-**AI/LLM:** Fine-tuning, RLHF, DPO, Prompt Engineering, Agentic AI, RAG, LangChain  
-**ML:** Pandas, Numpy, Transformers, TensorFlow, PyTorch, Scikit-learn  
-**Frameworks/Tools:** FastAPI, Flask, Streamlit, Docker, Kubernetes, MLflow, PowerBI, Jenkins  
-**Programming/Databases:** Python, R, MySQL, MongoDB, Pinecone, Neo4j  
-**Platforms:** AWS (Sagemaker, Bedrock), Azure, GCP (Vertex AI)  
+## ⚡ Languages and Technologies
+**AI/LLM:** Fine-tuning, RLHF, DPO, Prompt Engineering, Agentic AI, RAG, LangChain
+**ML:** Pandas, Numpy, Transformers, TensorFlow, PyTorch, Scikit-learn
+**Frameworks/Tools:** FastAPI, Flask, Streamlit, Docker, Kubernetes, MLflow, PowerBI, Jenkins
+**Programming/Databases:** Python, R, MySQL, MongoDB, Pinecone, Neo4j
+**Platforms:** AWS (Sagemaker, Bedrock), Azure, GCP (Vertex AI)
+**Certifications:** AWS Solutions Architect Associate, AWS ML Engineer, Deep Learning Specialization, Azure AI-900/AZ-900
 
 ## 🎖 Credentials & Certifications
-
-![AWS Solutions Architect - Associate](https://github.com/naveenaddanki84/naveenaddanki84/raw/main/aws-solutions-architect-associate.png)  
+![AWS Solutions Architect - Associate](aws-certified-solutions-architect-associate.png)
+  
 **AWS Certified Solutions Architect – Associate**
 
 **Additional Certifications:**
@@ -68,5 +67,3 @@ GPA: 3.9/4.0 | Aug 2023 - May 2025
 - [LinkedIn](https://www.linkedin.com/in/naveenaddanki/)
 - [GitHub](https://github.com/naveenaddanki84)
 - [Portfolio](https://www.datascienceportfol.io/addankinaveen84)
-
----
